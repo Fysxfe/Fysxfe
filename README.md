@@ -1,16 +1,21 @@
-## Hi there 👋
+# Bohdan Ivantsiv
 
-<!--
-**Fysxfe/Fysxfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer working with PHP and Node.js. Focused on call-center backend and voice AI systems.
 
-Here are some ideas to get you started:
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** PHP 8.2 (Yii2, Symfony Console), Node.js
+- **Database:** MySQL
+- **Tools:** Docker, Asterisk PBX, Git
+
+### Featured projects
+
+**[Call Analytics API](https://github.com/Fysxfe/Call-Analytics-API)** — REST API and web dashboard for call center analytics. Yii2, MySQL, Docker.
+
+**[PHP Log Analyzer](https://github.com/Fysxfe/php-log-analyzer)** — CLI tool for parsing Nginx and Apache access logs. Symfony Console, PHPUnit.
+
+### GitHub stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Fysxfe&show_icons=true&theme=default&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fysxfe&layout=compact&theme=default&hide_border=true)
