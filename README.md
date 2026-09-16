@@ -4,7 +4,7 @@ Backend developer working with PHP and Node.js. Focused on call-center backend a
 
 ### Stack
 
-- **Backend:** PHP 8.2 (Yii2, Symfony Console), Node.js
+- **Backend:** PHP 8.2 (Yii2, Symfony Console), Node.js, GO
 - **Database:** MySQL
 - **Tools:** Docker, Asterisk PBX, Git
 
