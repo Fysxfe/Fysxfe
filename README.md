@@ -4,10 +4,11 @@ Backend developer working with PHP and Node.js. Building LLM-powered voice syste
 
 ## Stack
 
-- **Backend:** PHP 8.2 (Yii2, Symfony Console), Node.js, TypeScript
-- **AI / LLM:** tool calling, prompt engineering, RAG, ChromaDB, OpenAI API
+- **Backend:** PHP 8.2 (Yii2, Symfony Console), Node.js, TypeScript, Go
+- **AI / LLM:** tool calling, prompt engineering, RAG, ChromaDB, OpenAI API, Deepgram, ElevenLabs
+- **Voice:** ASR/TTS pipelines, VAD, Asterisk PBX
 - **Database:** MySQL, PostgreSQL
-- **Tools:** Docker, Git, Asterisk PBX
+- **Tools:** Docker, Git, PHPUnit
 
 ## Featured projects
 
