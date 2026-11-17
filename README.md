@@ -1,4 +1,4 @@
-# Bohdan Ivantsiv
+# Bohdan
 
 Backend developer working with PHP and Node.js. Building LLM-powered voice systems and the services around them.
 
